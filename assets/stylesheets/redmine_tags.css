@@ -24,12 +24,12 @@ ul.tags li { margin: .25em 0px; }
 div.tags { text-align: center; }
 .tag-label { margin: .25em; }
 .tag-label-color {
-    border: 1px solid rgba(0, 0, 0, 0.2);
-    border-radius: 5px;
-    padding: 2px 4px;
-    display: inline-block;
-    margin: 1px;
-    color: white;
+	border-radius: 4px;
+	padding: 3px 6px 2px 6px;
+	display: inline-block;
+	margin: 1px;
+	color: white;
+	font-size: 0.80em;
 }
 
 .tag-label-color a { color: white; }
