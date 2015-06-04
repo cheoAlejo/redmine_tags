@@ -30,6 +30,7 @@ div.tags { text-align: center; }
 	margin: 1px;
 	color: white;
 	font-size: 0.86em;
+	margin-bottom: 6px;
 }
 
 .tag-label-color a { color: white; }
